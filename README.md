@@ -7,7 +7,7 @@
 <h2 align="center">Hello there! My name is Ardhiyatma. 👋👋</h2>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" />
+<img align="middle" alt="GIF" src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" />
 </p>
 
 
