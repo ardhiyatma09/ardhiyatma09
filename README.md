@@ -1,15 +1,13 @@
 <p align='center'>
-<a href="https://dev.to/lunadiotic"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/lionaitc_"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/lionatic"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/hakimsembiring/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/ardhiyatmar"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/ardhiyatmar"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/ardiyatma.timnas"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/facebook.png?raw=true"></a>
 </p>
 
-<h2 align="center">Hello there! IDStack Project. 👋🤓</h2>
-<p align="center">All of source code from me store in here.</p>
+<h2 align="center">Hello there! My name is Ardhiyatma. 👋👋</h2>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="middle" alt="GIF" src="https://giphy.com/gifs/codeit-official-coding-helloworld-codeit-h408T6Y5GfmXBKW62l" />
 </p>
 
 
